@@ -917,7 +917,7 @@ img {
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
-  color: #FFFF00;
+  color: #FFFF00 !important;
 }
 
 .main-menu .navigation > li > ul,
@@ -1482,7 +1482,7 @@ img {
 }
 
 .mobile-menu .social-links li a:hover{
-  
+  color: #FFCC00;
 }
 
 div#mCSB_1_container{
@@ -3017,7 +3017,7 @@ div#mCSB_1_container{
 }
 
 .header-style-two .logo-box .social-links li a:hover{
-
+  color: #FFCC00;
 }
 
 .header-style-two .logo-box .logo{
